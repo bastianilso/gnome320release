@@ -1,0 +1,32 @@
+# =============== #
+# Unity generated #
+# =============== #
+master-render--post/
+master-render/
+music/
+render/
+renders/
+voice/
+recordings/
+ 
+*.
+*.blend1
+*.exr
+*.xcf
+*.avi
+*.ogv
+*.mkv
+*.flac
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
