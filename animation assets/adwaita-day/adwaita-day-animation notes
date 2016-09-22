@@ -1,0 +1,16 @@
+New todo:
+
+ok so
+
+we need to start it so it continuously changes color, there's no point where it seems to stop.
+
+the way we do this is:
+
+- we extend each fade-out to be verrrrry long
+
+- we start a new fade-in before the fade-out happens
+
+- only in one occassion do we allow the fade-in to stop.
+
+
+have continuos color changing by using large-scale noise on all the triangles between 0 and 0.2 opacity.

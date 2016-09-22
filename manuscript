@@ -1,0 +1,42 @@
+OK so what we need to think about is, how can we make people who love GNOME, love GNOME more.
+
+-> We develop the free desktop in the open
+-> Accessible for anyone
+-> Streamlining the desktop
+-> Creating a unified desktop experience
+-> Paid attention to every detail
+-> Intuitive and elegant
+-> 
+
+--- --- ---
+
+[ Rhythmic start ]
+
+GNOME is developing the free desktop of the next generation.
+A platform, which provides a unified experience and is accessible for anyone.
+
+GNOME's application core is continually maturing. New development in Files has enabled it to create and open archives. It's now also possible to rename multiple files at once in a single operation.
+GNOME Software has received visual improvements with an improved landing page. This cycle also lands furhter integration for installing flatpak bundles and repositories.
+Furthermore, GNOME Photos can share images through e-mail or google photos.
+
+Major work is being undertaken to improve the desktop infrastructure.
+GNOME is enhancing the desktop security by building sandboxing technology with GTK+, Flatpak and Wayland. 
+
+With this release, developers can make use of this technology directly from GNOME Builder. From the revamped headerbar you can target autotools projects against a specific flatpak SDK. Builder also includes an application profiler to measure your application's performance.
+
+The new release will be provided by many distributions soon. GNOME is developed in the open and a friendly place to start contributing to free software. You can help us push the free desktop further by getting involved today.
+
+
+
+    GTK+ is getting portals support so sandboxed applications can get access on the fly through user permission.
+    For more news follow GTK+'s blog which has weekly highlights.
+    
+-> Flatpak?
+-> Wayland: Graphics tablet support
+
+ -> brings improvements to many applications (app grid) (reflected in background, blurred?).
+
+
+
+
+

@@ -1,0 +1,29 @@
+gnome builder
+    * Refined first launch view
+    * Revamped headerbar - Omnibar for building * Perspective
+    * Run button
+    * Built-in profiler
+
+gnome-software
+    * Better landing page
+    * Polished lists
+    * Installing flatpak repository files
+
+gnome photos
+    * Upload images to google photos
+    * E-mail attachments
+
+gnome-games
+    * Gamepad support for retro games
+
+nautilus
+    * create archives
+    * open archives
+    * rename multiple files
+
+gnome-settings
+    * keyboard settings: keyboard shortcuts
+
+gnome-calendar
+    * reschedule events with drag n drop
+

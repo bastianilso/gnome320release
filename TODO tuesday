@@ -1,0 +1,30 @@
+High level todo:
+- watch draft through for errors (in progress)
+- mark places where the soundtrack is interesting, or replace soundtrack.
+- possibly need to extend the distribution animation since i dont know looks like karen is making that one longer...
+    > maybe it's sent to a small dude and a heart flying up.
+
+
+TODO
+- Fix the timing at the start
+
+✓ no gaussian blur on the intro part.
+
+✓ Start doing the triangle stuff earlier so it doesnt seem like it starts after the gnome logo or something i guess?  maybe slowly make it more prominent ie first have very low opacity then increase it.
+
+- can maybe do the app overview for a longer time for sure. and maybe remove the outtro or replace with logarithmic fly-away.
+
+✓ black frame between outtro of GSoC/Outreachy and the files intro
+
+✓ 0:29 too quick fade from light color to normal color. also the files logo is still shown, it's probably better to let the light fade and the nautilus fade happen simultaneously.
+
+✓ fade between compress-dialog and batch rename should be longer
+
+✓ brief black frame between pressing install button on nightly repository and etc.
+
+✓ the gnome games logo seems to lack a shadow when we zoom in, investigate why.
+
+- Need to do more intense zooming on the builder window
+
+18 outtro could be longer for the "the gnome community is friendly for anyone"
+
